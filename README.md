@@ -20,9 +20,6 @@ You will also need to have software installed to run and execute an [iPython Not
 
 The main file that contains the CRISP-DM process for analysing Census data in the US from 1994. This file includes all the code for data cleaning, visualization, model training, model tuning, and prediction of the likelihood of donations.
 
-**visuals.py**
-
-Visualization module that contains all the code for visualizations in the notebook.
 
 # Data
 
