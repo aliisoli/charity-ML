@@ -16,7 +16,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 # File Descriptions
 
-**finding_donors.ipynb**
+**CharityML.ipynb**
 
 The main file that contains the CRISP-DM process for analysing Census data in the US from 1994. This file includes all the code for data cleaning, visualization, model training, model tuning, and prediction of the likelihood of donations.
 
